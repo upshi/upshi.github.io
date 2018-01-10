@@ -78,5 +78,5 @@ theme: snippet
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/upshi/upshi.github.io
+  repo: git@github.com:upshi/upshi.github.io.git
   branch: master
